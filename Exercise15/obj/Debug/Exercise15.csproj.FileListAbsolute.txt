@@ -1,0 +1,7 @@
+D:\Cocktail\Project VC\Studies\University of Colorado\Apps\Exercise15\Exercise15\bin\Debug\Exercise15.exe.config
+D:\Cocktail\Project VC\Studies\University of Colorado\Apps\Exercise15\Exercise15\bin\Debug\Exercise15.exe
+D:\Cocktail\Project VC\Studies\University of Colorado\Apps\Exercise15\Exercise15\bin\Debug\Exercise15.pdb
+D:\Cocktail\Project VC\Studies\University of Colorado\Apps\Exercise15\Exercise15\obj\Debug\Exercise15.csprojAssemblyReference.cache
+D:\Cocktail\Project VC\Studies\University of Colorado\Apps\Exercise15\Exercise15\obj\Debug\Exercise15.csproj.CoreCompileInputs.cache
+D:\Cocktail\Project VC\Studies\University of Colorado\Apps\Exercise15\Exercise15\obj\Debug\Exercise15.exe
+D:\Cocktail\Project VC\Studies\University of Colorado\Apps\Exercise15\Exercise15\obj\Debug\Exercise15.pdb

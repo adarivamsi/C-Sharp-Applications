@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/adari/AppData/Local/Temp/wz0d1a/Exercise10/Assets/scenes/scene0.unity
+  isLoaded: 1
+  isActive: 1

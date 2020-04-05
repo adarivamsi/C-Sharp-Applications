@@ -1,0 +1,7 @@
+D:\Cocktail\Project VC\Studies\University of Colorado\Apps\CalculateCosine\CalculateCosine\bin\Debug\CalculateCosine.exe.config
+D:\Cocktail\Project VC\Studies\University of Colorado\Apps\CalculateCosine\CalculateCosine\bin\Debug\CalculateCosine.exe
+D:\Cocktail\Project VC\Studies\University of Colorado\Apps\CalculateCosine\CalculateCosine\bin\Debug\CalculateCosine.pdb
+D:\Cocktail\Project VC\Studies\University of Colorado\Apps\CalculateCosine\CalculateCosine\obj\Debug\CalculateCosine.csprojAssemblyReference.cache
+D:\Cocktail\Project VC\Studies\University of Colorado\Apps\CalculateCosine\CalculateCosine\obj\Debug\CalculateCosine.csproj.CoreCompileInputs.cache
+D:\Cocktail\Project VC\Studies\University of Colorado\Apps\CalculateCosine\CalculateCosine\obj\Debug\CalculateCosine.exe
+D:\Cocktail\Project VC\Studies\University of Colorado\Apps\CalculateCosine\CalculateCosine\obj\Debug\CalculateCosine.pdb

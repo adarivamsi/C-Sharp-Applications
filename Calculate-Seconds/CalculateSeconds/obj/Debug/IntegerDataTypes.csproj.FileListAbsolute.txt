@@ -1,0 +1,7 @@
+D:\Cocktail\Project VC\Studies\University of Colorado\Apps\IntegerDataTypes\IntegerDataTypes\bin\Debug\IntegerDataTypes.exe.config
+D:\Cocktail\Project VC\Studies\University of Colorado\Apps\IntegerDataTypes\IntegerDataTypes\bin\Debug\IntegerDataTypes.exe
+D:\Cocktail\Project VC\Studies\University of Colorado\Apps\IntegerDataTypes\IntegerDataTypes\bin\Debug\IntegerDataTypes.pdb
+D:\Cocktail\Project VC\Studies\University of Colorado\Apps\IntegerDataTypes\IntegerDataTypes\obj\Debug\IntegerDataTypes.csprojAssemblyReference.cache
+D:\Cocktail\Project VC\Studies\University of Colorado\Apps\IntegerDataTypes\IntegerDataTypes\obj\Debug\IntegerDataTypes.csproj.CoreCompileInputs.cache
+D:\Cocktail\Project VC\Studies\University of Colorado\Apps\IntegerDataTypes\IntegerDataTypes\obj\Debug\IntegerDataTypes.exe
+D:\Cocktail\Project VC\Studies\University of Colorado\Apps\IntegerDataTypes\IntegerDataTypes\obj\Debug\IntegerDataTypes.pdb

@@ -1,0 +1,7 @@
+D:\Cocktail\Project VC\Studies\University of Colorado\Apps\GameScorer\GameScorer\bin\Debug\GameScorer.exe.config
+D:\Cocktail\Project VC\Studies\University of Colorado\Apps\GameScorer\GameScorer\bin\Debug\GameScorer.exe
+D:\Cocktail\Project VC\Studies\University of Colorado\Apps\GameScorer\GameScorer\bin\Debug\GameScorer.pdb
+D:\Cocktail\Project VC\Studies\University of Colorado\Apps\GameScorer\GameScorer\obj\Debug\GameScorer.csprojAssemblyReference.cache
+D:\Cocktail\Project VC\Studies\University of Colorado\Apps\GameScorer\GameScorer\obj\Debug\GameScorer.csproj.CoreCompileInputs.cache
+D:\Cocktail\Project VC\Studies\University of Colorado\Apps\GameScorer\GameScorer\obj\Debug\GameScorer.exe
+D:\Cocktail\Project VC\Studies\University of Colorado\Apps\GameScorer\GameScorer\obj\Debug\GameScorer.pdb
